@@ -157,3 +157,4 @@ Opencaseandverifydetails
     Run Keyword If    not ${element_present}    Log    Element not present   
     Capture Page Screenshot    SC3showmorenot.png
     Sleep    2
+    sleep    5
